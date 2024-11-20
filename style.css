@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(127, 50, 200);  
+    background-color: rgb(127, 50, 200);
+    padding: 40px 0;  
 }
 main{
     background-color: rgb(128, 218, 108);
@@ -13,6 +14,8 @@ main{
 h1{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
 }
 ol{
     list-style-position: inside;
